@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sparkly Alpaca</title>
+    <link>https://lucy778.github.io/</link>
+    <description>Recent content on Sparkly Alpaca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</managingEditor>
+    <webMaster>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</webMaster>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lucy778.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://lucy778.github.io/post/my-first-post/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      <author>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</author>
+      <guid>https://lucy778.github.io/post/my-first-post/</guid>
+      <description>Hi, my name is Lucy and I have started this blog because basically, I spend a lot of time and money on make up and I want to channel my obssession into something more productive than just browsing instagram, youtube and reddit.
+I want to share my thoughts on my favourite and not so favourite make up and beauty trends.
+I know I&amp;rsquo;ve missed the blogging hype train by oh, about 10 years or so, but this is something I&amp;rsquo;ve never personally done and I thought it would be fun.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lucy778.github.io/_indexnotused/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</author>
+      <guid>https://lucy778.github.io/_indexnotused/</guid>
+      <description>Front Page Content beautifulhugo supports content on your front page. Edit /content/_index.md to change what appears here. Delete /content/_index.md if you don&amp;rsquo;t want any content here.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://lucy778.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</author>
+      <guid>https://lucy778.github.io/page/about/</guid>
+      <description>My name is Lucy. Here are 5 facts about me:
+ Normal to dry skin Neutral to cool toned skin ~NC10 Home country Australia, the western world&amp;rsquo;s desert wasteland of make up Favourite make up category is lipstick Can&amp;rsquo;t live without sunscreen  Why makeup? I think most of us who love makeup have similar reasons. It&amp;rsquo;s a creative outlet. It&amp;rsquo;s relaxing and therapeutic, full of soothing scents and soft brushes.</description>
+    </item>
+    
+  </channel>
+</rss>

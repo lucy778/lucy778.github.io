@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Sparkly Alpaca</title>
+    <link>https://lucy778.github.io/page/</link>
+    <description>Recent content in Pages on Sparkly Alpaca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</managingEditor>
+    <webMaster>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</webMaster>
+    
+	<atom:link href="https://lucy778.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://lucy778.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lucystreams&#43;beautyblog@gmail.com (Lucy Rebekah)</author>
+      <guid>https://lucy778.github.io/page/about/</guid>
+      <description>My name is Lucy. Here are 5 facts about me:
+ Normal to dry skin Neutral to cool toned skin ~NC10 Home country Australia, the western world&amp;rsquo;s desert wasteland of make up Favourite make up category is lipstick Can&amp;rsquo;t live without sunscreen  Why makeup? I think most of us who love makeup have similar reasons. It&amp;rsquo;s a creative outlet. It&amp;rsquo;s relaxing and therapeutic, full of soothing scents and soft brushes.</description>
+    </item>
+    
+  </channel>
+</rss>
