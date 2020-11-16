@@ -7,7 +7,7 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "website", "message"] #third one was url previously
+  allowedFields: ["name", "email", "website", "comment"] #third one was url previously. Also comment was message previously.
 
   # (*) REQUIRED
   #
